@@ -1,2 +1,2 @@
-.. image:: https://travis-ci.org/rutujar/mt.svg?branch=master
-    :target: https://travis-ci.org/rutujar/mt
+.. image:: https://travis-ci.org/rutujar/maven_java.svg?branch=master
+    :target: https://travis-ci.org/rutujar/maven_java
