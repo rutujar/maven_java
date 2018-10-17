@@ -8,13 +8,11 @@
 
   <name>Black Duck CoPilot Example for Maven/Travis CI</name>
   <description>Provide an example of configuring a Maven project to use the Black Duck CoPilot application</description>
-  <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
   <inceptionYear>2017</inceptionYear>
 
   <scm>
     <connection>scm:git:git://github.com/blackducksoftware/hub-common.git/</connection>
     <developerConnection>scm:git:git@github.com:BlackDuckCoPilot/example-maven-travis.git</developerConnection>
-    <url>https://github.com/BlackDuckCoPilot/example-maven-travis</url>
   </scm>
 
   <properties>
